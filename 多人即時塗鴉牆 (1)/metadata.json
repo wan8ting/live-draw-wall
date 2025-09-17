@@ -1,0 +1,5 @@
+{
+  "name": "多人即時塗鴉牆",
+  "description": "A real-time collaborative whiteboard application allowing multiple users to draw together. Features include basic drawing tools, color selection, an eraser, and AI-powered idea generation. The canvas can be downloaded as an image.",
+  "requestFramePermissions": []
+}
